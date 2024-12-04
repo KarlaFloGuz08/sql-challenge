@@ -24,6 +24,6 @@ See the table-schema.sql file
 ## Data Analysis 
 
 Data analysis performed in files:
-anaanalysis_queries.sql
+analysis_queries.sql
 
 
