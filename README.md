@@ -18,7 +18,9 @@ Entity Relationship Diagram
 
 
 ## Data Engineering 
+
 See the table-schema.sql file
+```
 -- Data Engineering --
 -- Drop Tables if Existing
 DROP TABLE IF EXISTS departments;
@@ -99,7 +101,7 @@ SELECT * FROM employees;
 SELECT * FROM dept_emp;
 SELECT * FROM dept_manager;
 SELECT * FROM salaries;
-
+```
 ## Data Analysis 
 
 Data analysis performed in files:
