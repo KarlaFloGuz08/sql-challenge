@@ -14,7 +14,8 @@ This Challenge is divided into three parts:
 ## Data Modeling
 
 Entity Relationship Diagram
-![image](https://github.com/user-attachments/assets/f632caa2-9bd6-4fc8-8f70-878c49e9e2de)
+
+![EDR](https://github.com/user-attachments/assets/39eb9cf9-1cae-4c50-90dd-a6656becdd37)
 
 
 ## Data Engineering 
@@ -23,7 +24,6 @@ See the table-schema.sql file
 ## Data Analysis 
 
 Data analysis performed in files:
+anaanalysis_queries.sql
 
-1. analysis_queries.sql
-2. table_schemata.sql
 
