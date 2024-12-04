@@ -14,6 +14,10 @@ This Challenge is divided into three parts:
 ## Data Modeling
 ![image](https://github.com/user-attachments/assets/e6a98839-ce14-4b90-892b-930e200454f5)
 
+
+## Data Engineering 
+See the table-schema.sql file
+
 ## Data Analysis 
 
 Data analysis performed in files:
